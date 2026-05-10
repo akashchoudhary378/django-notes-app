@@ -1,3 +1,4 @@
+version: "3.3"
 services:
     web:
         image:  "akash9821/notes-app:latest"
